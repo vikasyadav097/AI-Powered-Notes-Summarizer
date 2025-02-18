@@ -91,3 +91,9 @@ uvicorn main:app --reload
 - **CI/CD Integration:** Automated deployment pipeline for seamless updates and feature releases.  
 
 Perfect for anyone looking to enhance productivity and manage information more effectively!
+
+Contributing
+Feel free to open issues or submit pull requests for improvements or bug fixes.
+
+License
+This project is licensed under the MIT License.
